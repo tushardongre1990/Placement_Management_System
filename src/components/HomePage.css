@@ -1,0 +1,91 @@
+.homepage-container {
+   
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .company-details {
+    max-width: 800px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .company-details h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+  }
+  
+  .company-details p {
+    margin-bottom: 20px;
+  }
+  
+  .company-logos {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .logo {
+    width: 150px;
+    margin: 0 10px;
+  }
+  .img1{
+    height: 75px;
+    }
+.div1{
+    margin-top: 20px;
+}
+.div2{
+    margin-top: 50px;
+}
+.h2{
+    color:rgb(19, 2, 35);
+}
+.company-list {
+  list-style: none;
+  padding-left: 20px;
+}
+
+.company-list li {
+  margin-bottom: 5px;
+}
+.div3{
+  display: flex;
+  justify-content: space-between;
+  
+}
+.upcoming-events {
+  margin-bottom: 20px;
+}
+
+.upcoming-events h3 {
+  margin: 10px 0;
+}
+
+.event-list {
+  list-style: none;
+  padding: 0;
+}
+
+.event-list li {
+  margin-bottom: 10px;
+}
+
+.event-date {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.event-company {
+  margin-right: 10px;
+}
+
+.event-details {
+  color: #080c14;
+}
+.div4{
+  margin-left: 10%;
+}
